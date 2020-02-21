@@ -11,5 +11,6 @@
     "type:duplicate": ""
   },
   "defaultBuild": "offcore.tooling.48",
+  "hideWorkItemUrl": "true",
   "statusWhenClosed": "CLOSED"
 }
