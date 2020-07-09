@@ -1,3 +1,11 @@
+# 2.4.0 - July 9, 2020
+
+## Fixed
+
+-   Support projects using namespace configuration
+-   Show unsupported error message when a component uses `@salesforce/apexContinuation`
+-   Support projects with customized folder structures
+
 # 2.3.0 - July 2, 2020
 
 ## Added
